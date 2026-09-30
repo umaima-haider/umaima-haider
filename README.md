@@ -10,7 +10,7 @@ I am a Data Science student at the University of Engineering and Technology (UET
 |----------|--------------|
 | Programming Languages | Python, C# |
 | Data Science | Pandas, Data Analysis |
-| Database | SQL server |
+| Database | SQL Server |
 | Development Tools | Visual Studio, VS Code, Pycharm |
 | Version Control | Git, GitHub |
 | Networking | Cisco Packet Tracer |
